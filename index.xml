@@ -1,22 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Stas Demichev | Student | Programmer</title>
+    <title>Stas Demichev  Troubleshooter | Student</title>
     <link>https://stsdmchv.github.io/</link>
-    <description>Recent content on Stas Demichev | Student | Programmer</description>
+    <description>Recent content on Stas Demichev  Troubleshooter | Student</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Stas Demichev © 2021</copyright>
-    <lastBuildDate>Mon, 26 Apr 2021 00:20:29 +0300</lastBuildDate><atom:link href="https://stsdmchv.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Mikrotik настройка в LTE-сети</title>
-      <link>https://stsdmchv.github.io/posts/mikrotik_hapac/post/</link>
-      <pubDate>Mon, 26 Apr 2021 00:20:29 +0300</pubDate>
-      
-      <guid>https://stsdmchv.github.io/posts/mikrotik_hapac/post/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Fri, 23 Apr 2021 12:00:00 +0000</lastBuildDate><atom:link href="https://stsdmchv.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NFT-токены. Что это и с чем есть?</title>
       <link>https://stsdmchv.github.io/posts/nft-tokens/post/</link>
