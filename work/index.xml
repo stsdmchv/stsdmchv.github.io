@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Works on Stas Demichev</title>
+    <link>https://stsdmchv.github.io/work/</link>
+    <description>Recent content in Works on Stas Demichev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Stas Demichev © 2021</copyright>
+    <lastBuildDate>Tue, 30 Mar 2021 20:00:00 +0300</lastBuildDate><atom:link href="https://stsdmchv.github.io/work/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Патент №2021614730 Программа Интеллектуальный бот ВГУИТ для соц сетей</title>
+      <link>https://stsdmchv.github.io/work/2021614730/post/</link>
+      <pubDate>Tue, 30 Mar 2021 20:00:00 +0300</pubDate>
+      
+      <guid>https://stsdmchv.github.io/work/2021614730/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Патент №2020667414 Интерактивный помощник абитуриента ВГУИТ</title>
+      <link>https://stsdmchv.github.io/work/2020667414/post/</link>
+      <pubDate>Thu, 24 Dec 2020 21:00:00 +0300</pubDate>
+      
+      <guid>https://stsdmchv.github.io/work/2020667414/post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
