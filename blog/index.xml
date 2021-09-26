@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Stas Demichev</title>
+    <link>https://stsdmchv.github.io/blog/</link>
+    <description>Recent content in Blogs on Stas Demichev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Stas Demichev © 2021</copyright>
+    <lastBuildDate>Fri, 23 Apr 2021 12:00:00 +0000</lastBuildDate><atom:link href="https://stsdmchv.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NFT-токены. Что это и с чем есть?</title>
+      <link>https://stsdmchv.github.io/blog/nft_token/post/</link>
+      <pubDate>Fri, 23 Apr 2021 12:00:00 +0000</pubDate>
+      
+      <guid>https://stsdmchv.github.io/blog/nft_token/post/</guid>
+      <description>На волне хайпа криптовалют в природе появились так называемые NFT-токены. Невзаимозаменяемый токен или уникальный токен (в простонародье NFT) является видом криптографических токенов, которые уникальны в своей природе, ограничены в количестве и имеют свой адрес в цепочке блоков.
+Если рассуждать простыми словами, то NFT-токен &amp;ndash; это что-то уникальное, как трек Моргенштерна произведение Баха или картина Пабло Пикассо. Соответственно, такие токены будут существовать всего в одном экземпляре, а их владелец может раздавать права на использование по своему усмотрению.</description>
+    </item>
+    
+  </channel>
+</rss>

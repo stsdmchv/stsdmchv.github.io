@@ -1,0 +1,5 @@
+# robots.txt for https://stsdmchv.github.io
+
+User-agent: *
+
+#Disallow: /blog/<FOLDER_POST>post/ # simple disallow
